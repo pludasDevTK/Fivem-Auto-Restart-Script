@@ -5,7 +5,7 @@ GTA 5 FiveM Server Selected Resources Auto Restart Script With Discord Message.
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [help](#help)
 
 ## Features
 
